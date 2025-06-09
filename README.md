@@ -9,7 +9,7 @@ A real-time music recommendation system that detects user's emotion through webc
 - Custom CNN model for emotion recognition
 
 ## Project Structure
-|EB_music
+|EB_MusicAPP
 ├── web/ # Frontend files
 │ ├── main.html # Main interface
 │ ├── styles.css # Styling
@@ -34,7 +34,7 @@ A real-time music recommendation system that detects user's emotion through webc
 ## Installation & Setup
 
 ### 1. Clone Repository
-cd EB_music
+cd EB_MusicAPP
 
 ### 2. Run Setup Script
 python setup.py
