@@ -11,11 +11,11 @@ A real-time music recommendation system that detects user's emotion through webc
 ## Project Structure
 |EB_MusicAPP
 ├── web/ # Frontend files
+| ├── songs/ # Music library (MP3/WAV)
+| ├──images/ # Music icons(wallpaper)
 │ ├── main.html # Main interface
 │ ├── styles.css # Styling
 │ └── scripts.js # Frontend logic
-├── songs/ # Music library (MP3/WAV)
-├── dataset/ # Training images
 ├── app.py # Main application
 ├── setup.py # First-run setup script
 ├── emotion_recognition.py # Emotion detection CNN
